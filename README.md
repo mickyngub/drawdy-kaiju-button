@@ -2,6 +2,8 @@
 
 A button just for fun. Press it and a kaiju stomps across your Drawdy board: the view shakes, footprints appear and your notes go flying. After a last roar, everything snaps back exactly where it was.
 
+![A kaiju stomps across a sprint retro board, sending the sticky notes flying, then every note snaps back into place.](https://raw.githubusercontent.com/mickyngub/drawdy-kaiju-button/main/docs/media/kaiju-button.gif)
+
 ## What it's for
 
 - **A quick laugh** in a long working session.

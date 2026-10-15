@@ -1,7 +1,7 @@
 {
     "driverId": "mickyngub.kaiju-button",
     "driverName": "Kaiju Button",
-    "driverVersion": "1.0.1",
+    "driverVersion": "1.0.2",
     "description": "Press the button and let a kaiju stomp across your board. It walks across your view leaving footprints, every stomp jolts the view and knocks nearby elements flying, and a last roar shakes everything. Only you see it and nothing on the board changes: after about nine seconds every element is back where it was. Press the button again or Escape to stop it early.",
     "icon": "icon.png",
     "main": "main.js",

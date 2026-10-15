@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- a short GIF on the listing page that shows the kaiju stomping across a sprint retro board in action
+
 ## 1.0.1
 
 - a clearer listing page: what the extension is for, how to use it, tips and privacy, in plain words
